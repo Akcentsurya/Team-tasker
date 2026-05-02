@@ -5,13 +5,17 @@ fuction addTask(task) {
   console.log("task added:", task2);
 
  function updateTask(task) {
-	console.log("Task updated:", task1);
+	console.log("Task updated:", task);
 
-fuction addTask(task) {
-  console.log("task added:", task2);
+ function addTask(task) {
+  console.log("task added:", task);
 }
 
 function updateTask(task) {
+<<<<<<< HEAD
 	console.log("Task newly added:", task3);
  develop
+=======
+	console.log("Task newly added:", task);
+>>>>>>> f2e5ace (fix:corrected variable names and syntax)
 }
